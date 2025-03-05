@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Python,
 ## 📫 How to Reach Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-hakki/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/girishhakki/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/girish_hakki/)
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/girish.hakki)
 
 ## 📝 Latest Blog Posts
