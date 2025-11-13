@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Girish Hakki – The Tech Explorer! 🚀</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Architect;Python+%7C+Django+%7C+AWS+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=DevOps+Engineer;AWS+Enthusiast;Data+Analyst;Python+%7C+AWS+%7C+AWS+%7C+Kubernetes+%7C+Docker" alt="Typing SVG" />
 </p>
 
 <div align="center">
