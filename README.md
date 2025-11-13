@@ -16,8 +16,8 @@
 I love bridging the gap between **DevOps and Data Analytics**, combining **AWS, CI/CD, and Power BI** to create scalable and insightful systems.  
 
 - 🔭 **Currently Working On:** Cloud Automation Projects & Customer Churn Analysis  
-- 🌱 **Learning:** Data Engineering (ETL, Python, Power BI, and Cloud Data Pipelines)  
-- 💬 **Ask Me About:** AWS, Docker, Kubernetes, Terraform, Power BI, and MySQL  
+- 🌱 **Learning:** ETL, Python, Power BI, and Cloud Data Pipelines
+- 💬 **Ask Me About:** AWS, Linux, Docker, Kubernetes, Power BI, and MySQL  
 - ⚡ **Fun Fact:** I love **traveling, biking 🏍️, and fitness 💪**  
 
 ---
