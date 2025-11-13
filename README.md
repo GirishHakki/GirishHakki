@@ -1,8 +1,7 @@
-
 <h1 align="center">🚀 Girish Hakki – The Tech Explorer! 🚀</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=DevOps+Engineer;AWS+Enthusiast;Data+Analyst;Python+%7C+Linux+%7C+AWS+%7C+Kubernetes+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Data+Analyst;Power+BI+Developer;Excel+%7C+MySQL+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,21 +12,22 @@
 
 ## 🌟 About Me  
 
-👋 Hey there! I'm **Girish Hakki**, a **tech enthusiast** who loves building **innovative solutions** with cutting-edge technologies.  
+👋 Hey there! I'm **Girish Hakki**, a passionate **Data Analyst** who loves transforming raw data into meaningful insights that drive smart business decisions.  
 
-- 🔭 **Currently Working On:** AI-driven **Cloud Automation** & **DevOps Projects**  
-- 🌱 **Learning:** **Microservices, Kubernetes, AI Integration**  
-- 💬 **Ask Me About:** Django, AWS, DevOps, Scalable Architectures  
+- 🔭 **Currently Working On:** Customer Churn Analysis & BI Dashboards  
+- 🌱 **Learning:** Data Engineering (ETL, Python Automation, Cloud Integration)  
+- 💬 **Ask Me About:** Power BI, MySQL, Excel Dashboards, Data Cleaning & Visualization  
 - ⚡ **Fun Fact:** I love **traveling, biking 🏍️, and fitness 💪**  
 
 ---
 
 ## 🚀 Tech Stack  
 
-### 💻 Programming & Frameworks  
+### 📊 Data Analytics Tools  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -61,9 +61,10 @@
 
 ## 📌 Featured Projects  
 
-🔹 **[Brain Tumor Detection](https://github.com/GirishHakki/Brain-tumor-Detection) - AI-powered tumor detection system**  
-🔹 **[ToDo List App](https://github.com/GirishHakki/ToDo-List) - Simple and elegant task management tool**  
-🔹 **[Front-End Projects](https://github.com/GirishHakki/Front-End-Project) - Collection of responsive UI designs**  
+🔹 **[Customer Churn Analysis](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Churn%20Analysis)** – Predictive analytics to identify potential customer churn  
+🔹 **[Uber Trip Dashboard](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Uber%20Trip%20Dashboard)** – Power BI project analyzing trip trends and revenue  
+🔹 **[Brain Tumor Detection](https://github.com/GirishHakki/Brain-tumor-Detection)** – AI-powered tumor detection system  
+🔹 **[ToDo List App](https://github.com/GirishHakki/ToDo-List)** – Simple and elegant task management tool  
 
 🔗 **Explore all my projects:** [GitHub Repositories](https://github.com/GirishHakki?tab=repositories)  
 
@@ -72,9 +73,10 @@
 ## 📚 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes: A Beginner's Guide](https://yourblog.com/kubernetes-beginners-guide)  
-- [Automating AWS Infrastructure with Terraform](https://yourblog.com/aws-terraform-automation)  
-- [Building Scalable Web Apps with Django](https://yourblog.com/scalable-django-apps)  
+- [AWS VPC Project – Secure Private & Public Network Setup with EC2, NAT & S3 Integration](https://medium.com/@girish.hakki.kuk/️-aws-vpc-project-secure-private-public-network-setup-with-ec2-nat-and-s3-integration-7507df3aa4ad)  
+- [Hosting a Secure Static Website on AWS using S3, CloudFront, Route 53 & ACM](https://medium.com/@girish.hakki.kuk/hosting-a-secure-static-website-on-aws-using-s3-cloudfront-route-53-and-acm-48860bc5b71d)  
+- [Customer Churn Analysis – Predicting Customer Retention](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Churn%20Analysis)  
+- [Uber Trip Dashboard – Data Visualization using Power BI](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Uber%20Trip%20Dashboard)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -116,11 +118,6 @@
 
 <p align="center">
 ✨ If you like my work, feel free to star ⭐ some repositories!  
-✨ Always happy to connect with fellow developers & tech enthusiasts!  
+✨ Always happy to connect with fellow developers & data enthusiasts!  
 </p>
-
-
-
-
-
 
