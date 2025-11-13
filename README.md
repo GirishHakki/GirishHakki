@@ -123,9 +123,10 @@ I love bridging the gap between **DevOps and Data Analytics**, combining **AWS, 
 
 ---
 
-## 🎵 Vibe While You Code! 🎧  
+## 🧩 Certifications  
 
-[![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)](https://open.spotify.com/user/your_spotify_id)  
+- 🧠 **Data Analyst:** ![WebTech](https://img.shields.io/badge/WebTech-Data%20Analyst%20(Ongoing)-blue?style=for-the-badge)  
+- ⚙️ **DevOps:** ![NareshIT](https://img.shields.io/badge/Naresh%20IT-AWS%20DevOps%20Course-orange?style=for-the-badge)  
 
 ---
 
