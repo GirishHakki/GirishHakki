@@ -76,7 +76,7 @@ I love bridging the gap between **DevOps and Data Analytics**, combining **AWS, 
 🔹 **[Customer Churn Analysis](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Churn%20Analysis)** – Predictive analytics to identify potential customer churn  
 🔹 **[Uber Trip Dashboard](https://github.com/GirishHakki/Data-Analyst-Projects/tree/main/Uber%20Trip%20Dashboard)** – Power BI project analyzing trip trends and revenue  
 🔹 **[Brain Tumor Detection](https://github.com/GirishHakki/Brain-tumor-Detection)** – AI-powered tumor detection system  
-🔹 **[ToDo List App](https://github.com/GirishHakki/ToDo-List)** – Simple and elegant task management tool  
+🔹 **[3tier-app-deployment-aws]([https://github.com/GirishHakki/ToDo-List](https://github.com/GirishHakki/AWS-DevOps-Projects/tree/main/3tier-app-deployment-aws))** – A complete 3-Tier Architecture deployment on AWS Cloud  
 
 🔗 **Explore all my projects:** [GitHub Repositories](https://github.com/GirishHakki?tab=repositories)  
 
