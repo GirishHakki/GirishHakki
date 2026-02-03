@@ -148,12 +148,3 @@ I love bridging the gap between **DevOps and Data Analytics**, combining **AWS, 
 
 
 
-
-
-
-
-
-
-
-
-
