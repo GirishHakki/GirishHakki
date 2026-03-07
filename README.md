@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">🚀 Girish Hakki – The Tech Explorer! 🚀</h1>  
 
 <p align="center">
@@ -138,7 +136,6 @@ I love bridging the gap between **DevOps and Data Analytics**, combining **AWS, 
 ✨ If you like my work, feel free to star ⭐ some repositories!  
 ✨ Always happy to connect with fellow developers & data enthusiasts!  
 </p>
-
 
 
 
